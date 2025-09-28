@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-  <img src="./Furina1.jpg" width="50%" alt="Furina1" />
-</div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Furina318&size_weight=0.5&count_weight=0.5&langs_count=8&theme=transparent)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Furina318&show_icons=true&theme=transparent)
 ![Taot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Furina318&theme=xcode)
 
+<div align="center">
+  <img src="./Furina1.jpg" width="50%" alt="Furina1" />
+</div>
