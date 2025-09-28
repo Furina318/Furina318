@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<div align="center">
+  <img src="./Furina1.jpg" width="50%" alt="Furina1" />
+</div>
 <!--
 **Furina318/Furina318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
