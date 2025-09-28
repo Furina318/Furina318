@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">~  𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮  ~</h1>
 <div align="center">
 <!-- 头像区域：添加圆角和轻微阴影，提升精致感 -->
 <img src="./Furina1.jpg" width="220px" height="220px" style="border-radius: 50%; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" alt="Furina1" />
