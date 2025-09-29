@@ -20,5 +20,5 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Furina318&size_weight=0.5&count_weight=0.5&langs_count=8&theme=transparent)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Furina318&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Furina318&show_icons=true&theme=transparent&commits_year=2025)
 ![Taot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Furina318&theme=xcode)
