@@ -9,7 +9,7 @@
 📌 About Me
 <div style="background-color: #f8f9fa; border-radius: 8px; padding: 18px; margin-bottom: 24px;">
 <ul style="list-style: none; padding: 0; line-height: 1.8; color: #34495e;">
-  <img src="./East.jpg" width="45%" align="right" alt="East" />
+  <img src="./Furina2.jpg" width="45%" align="right" alt="Furina2" />
 <li>🔭 <strong>Working at</strong>: Shenzhen Technology University</li>
 <li>🌱 <strong>Learning</strong>: ysyx, STM32 SCM, ACM Algorithm</li>
 <li>🤔 <strong>Focus on</strong>: Integrated Circuit (IC) Design & Development</li>
