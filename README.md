@@ -14,7 +14,6 @@
 <li>🌱 <strong>Learning</strong>: ysyx, STM32 SCM, ACM Algorithm</li>
 <li>🤔 <strong>Focus on</strong>: Integrated Circuit (IC) Design & Development</li>
 <li>📫 <strong>Reach me</strong>: <a href="mailto:1145676148@qq.com" style="color: #3498db; text-decoration: none;">1145676148@qq.com</a></li>
-<li>🎮 <strong>Games I play</strong>: Genshin Impact, Hollow Knight: Silksong, Valorant</li>
 </ul>
 </div>
 
