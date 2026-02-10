@@ -9,15 +9,11 @@
 📌 About Me
 <div style="background-color: #f8f9fa; border-radius: 8px; padding: 18px; margin-bottom: 24px;">
 <ul style="list-style: none; padding: 0; line-height: 1.8; color: #34495e;">
-  <img src="./Furina2.jpg" width="45%" align="right" alt="Furina2" />
 <li>🔭 <strong>Working at</strong>: Shenzhen Technology University</li>
-<li>🌱 <strong>Learning</strong>: ysyx, STM32 SCM, ACM Algorithm</li>
+<li>🌱 <strong>Learning</strong>: ysyx, STM32, ACM Algorithm</li>
 <li>🤔 <strong>Focus on</strong>: Integrated Circuit (IC) Design & Development</li>
 <li>📫 <strong>Reach me</strong>: <a href="mailto:1145676148@qq.com" style="color: #3498db; text-decoration: none;">1145676148@qq.com</a></li>
 </ul>
 </div>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Furina318&size_weight=0.5&count_weight=0.5&langs_count=8&theme=transparent)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Furina318&show_icons=true&theme=transparent)
 ![Taot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Furina318&theme=xcode)
